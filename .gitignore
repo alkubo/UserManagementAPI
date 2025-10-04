@@ -1,0 +1,53 @@
+# --- Visual Studio Code ---
+.vscode/
+.history/
+*.code-workspace
+
+# --- Build outputs ---
+bin/
+obj/
+out/
+Debug/
+Release/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+
+# --- User-specific files ---
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# --- Logs & temp ---
+*.log
+*.tlog
+*.tmp
+*.temp
+*.pid
+*.seed
+*.bak
+
+# --- OS generated files ---
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# --- NuGet packages ---
+*.nupkg
+*.snupkg
+*.nuspec
+*.psmdcp
+packages/
+.nuget/
+
+# --- Rider / JetBrains IDEs ---
+.idea/
+*.iml
+
+# --- Others ---
+*.swp
+*.swo
+*.orig
