@@ -1,6 +1,6 @@
 # 🧑‍💻 TechHive Solutions – User Management API
 
-A **.NET 6/7 Minimal API** project built for TechHive Solutions to manage users.  
+A **.NET 9 Minimal API** project built for TechHive Solutions to manage users.  
 This API provides **CRUD operations**, **validation**, and **middleware** for logging, authentication, and error handling.
 
 ---
